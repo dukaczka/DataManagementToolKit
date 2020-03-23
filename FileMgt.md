@@ -4,7 +4,7 @@
 
 * [FreeCommander](https://freecommander.com/en/license/) file management tool
 
-+ Multi-File Renaming
+    + Multi-File Renaming
 
-+ CheckSum creation
+    + CheckSum creation
 

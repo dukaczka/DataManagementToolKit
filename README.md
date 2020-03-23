@@ -7,7 +7,11 @@ Tool kit of templates and documents to help manage data from inception to public
 
 + File Management
 
-   +	File Naming [FN] (../FileNaming.md)
+   +	File Naming
+   
+   [FN](https://github.com/dukaczka/DataManagementToolKit/FileNaming.md)
+   
+    [FN_RP](../FileNaming.md)
 
 # GEOG 712 Reproducible Research
 
@@ -35,6 +39,7 @@ The majority of the cost of Reproducible Research are associated with Time:
    +	Determining appropriate tools to use
    +	Identifying proper infrastructure
    +	Creating process flow
+   
   
 3.	Learning the tools
 

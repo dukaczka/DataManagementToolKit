@@ -7,6 +7,8 @@ Tool kit of templates and documents to help manage data from inception to public
 
 + File Management
 
+   +	File Naming [FN] (../FileNaming.md)
+
 # GEOG 712 Reproducible Research
 
 ## Session 1. Agenda/Notes
@@ -27,7 +29,7 @@ The majority of the cost of Reproducible Research are associated with Time:
 
 2.	Developing standards 
 
-   +	File Naming [FN] (..\FileNaming)
+
    
    +	Identifying storage/back-up processes
    +	Determining appropriate tools to use

@@ -3,11 +3,10 @@ Tool kit of templates and documents to help manage data from inception to public
 
 # Topics
 
-+ ReadMe Files
+* [ReadMe Files](ReadMe.md)
 
-+ File Management
 
-[File Management Best Practices](FileMgt.md)
+* [File Management Best Practices](FileMgt.md)
 
    +	File Naming
    

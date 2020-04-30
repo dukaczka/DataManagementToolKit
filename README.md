@@ -4,12 +4,12 @@ Tool kit of templates and documents to help manage data from inception to public
 # Topics
 
 
-+         Planning Tips – Weekly scheduling /Daily planning to accommodate changes;  List of Must-Do/Hope-to to streamline decision making
++         Planning:  Weekly scheduling /Daily planning; List of Must-Do/Hope-to 
 +         Pre/During/Post data collection checklists
 +         Know your data/Expected value ranges – What to do if unexpected results.
 +         ReadMe file content
 +         Variable list/description (units)
-+         Instrument Inventory (list of instruments, where deployed, calibration requirements, instrument check schedule)
++         Instrument Inventory (list of instruments, location, calibration, checks) 
 +         Record of Site history – instrument damage/change, re-location etc.
 +         Methods Notes – conversions
 
